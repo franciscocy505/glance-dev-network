@@ -1,0 +1,14 @@
+gdn: 1
+id: chicago-cubs-win-flag
+version: 0.1.0
+name: "Chicago Cubs Win Flag"
+author: "FCYC"
+description: Three waving Cubs victory flags on a Cubby-blue background.
+category: Art
+entry: app.star
+width: 384
+height: 32
+refresh: 900
+pages: [main]
+assets:
+  - chicago_cubs_win_flag.png
