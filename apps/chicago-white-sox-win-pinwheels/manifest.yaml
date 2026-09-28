@@ -1,0 +1,14 @@
+gdn: 1
+id: chicago-white-sox-win-pinwheels
+version: 0.1.2
+name: "Chicago White Sox Win Pinwheels"
+author: "FCYC"
+description: Seven colorful White Sox pinwheels on black.
+category: Sports
+entry: app.star
+width: 384
+height: 32
+refresh: 900
+pages: [main]
+assets:
+  - chicago_white_sox_win_pinwheels.png
