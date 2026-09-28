@@ -1,0 +1,14 @@
+gdn: 1
+id: chicago-white-sox-win-pinwheels-3
+version: 0.1.0
+name: "Chicago White Sox Win Pinwheels 3"
+author: "FCYC"
+description: Illuminated White Sox pinwheels with large fireworks behind them.
+category: Sports
+entry: app.star
+width: 384
+height: 32
+refresh: 900
+pages: [main]
+assets:
+  - chicago-white-sox-win-pinwheels-3.png
