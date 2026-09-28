@@ -1,0 +1,14 @@
+gdn: 1
+id: chicago-white-sox-win-pinwheel-2
+version: 0.1.0
+name: "Chicago White Sox Win Pinwheel 2"
+author: "FCYC"
+description: Seven illuminated White Sox pinwheels in a stepped row.
+category: Sports
+entry: app.star
+width: 384
+height: 32
+refresh: 900
+pages: [main]
+assets:
+  - chicago-white-sox-win-pinwheel-2.png
