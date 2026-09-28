@@ -1,0 +1,14 @@
+gdn: 1
+id: chicago-cubs-win-flag-2
+version: 0.1.0
+name: "Chicago Cubs Win Flag 2"
+author: "FCYC"
+description: Three waving Cubs victory flags alternating with two Cubs C logos.
+category: Art
+entry: app.star
+width: 384
+height: 32
+refresh: 900
+pages: [main]
+assets:
+  - chicago_cubs_win_flag_2.png
